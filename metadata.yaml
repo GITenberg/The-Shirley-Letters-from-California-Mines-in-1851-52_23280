@@ -1,0 +1,32 @@
+_repo: The-Shirley-Letters-from-California-Mines-in-1851-52_23280
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shirley, Dame
+    alias: Clappe, Louise Amelia Knapp Smith
+    birthdate: 1819
+    deathdate: 1906
+    gutenberg_agent_id: '25785'
+    url: http://www.gutenberg.org/2009/agents/25785
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2007-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23280'
+  lccn: '22015468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'California -- Description and travel'
+- !lcsh 'Women pioneers -- California -- Correspondence'
+- !lcsh 'Shirley, Dame, 1819-1906 -- Correspondence'
+- !lcsh 'California -- Gold discoveries'
+title: The Shirley Letters from California Mines in 1851-52
+url: http://www.gutenberg.org/ebooks/23280
