@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25785'
     url: http://www.gutenberg.org/2009/agents/25785
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23280#The-Shirley-Letters-from-California-Mines-in-1851-52
 gutenberg_bookshelf: United States
 gutenberg_issued: '2007-11-01'
 gutenberg_type: Text
